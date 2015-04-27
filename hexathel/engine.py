@@ -1,6 +1,6 @@
 #-*-coding:utf8 -*-
 import pika
-from pymongo import Connection as MongoClient
+from pymongo import MongoClient
 import datetime
 import re
 import urllib
